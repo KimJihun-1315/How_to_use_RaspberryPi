@@ -2,5 +2,7 @@
 
 Study and document how to use Raspberry Pi in this repository
 
-1. RPi 셋팅
-2. RPi display rotate
+
+## Contents
+1. RPi Setting
+3. RPi display rotate
