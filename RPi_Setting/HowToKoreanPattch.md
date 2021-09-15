@@ -1,20 +1,17 @@
-# SSH및 VNC활성화
-
-### Step 1 start raspi-config
-```
-sudo raspi-config
-```
-
-### Step 2 Expand filsystem 
-advanced option -> Expand Filesystem
-
-
 # 한국어 패치
 
-### input Terminal
+### 최신패키지 업데이트&업그레이드
 ```
-sudo apt update  
-sudo apt upgrade   
+sudo apt update
+sudo apt upgrade
+```
+
+### 설치되지 않은 폰트를 가져옵니다.
+```
 sudo apt install -y fonts-unfonts-core  
+```
+
+### 재시작
+```
 reboot  
 ```
